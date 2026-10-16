@@ -137,7 +137,7 @@ All blog routes require valid JWT authentication. Users can update and delete on
 
 **Explanation Video**
 
-**Link:** [Add your Google Drive video link here]
+**Link:** [[Add your Google Drive video link here](https://drive.google.com/file/d/1Fp9H8Ad5qF7b2wHKxxVTe5xRPSRz2B9n/view?usp=sharing)]
 
 ---
 
